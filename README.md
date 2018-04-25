@@ -5,7 +5,7 @@ Experimental Python code implementing the randomized truncated singular value de
 The Python script src/RunNumericalExperiments.py runs the experiments discussed in Bjarkason (2018).
 
 # Citation
-Bjarkason, E. K. (2018). *Pass-efficient randomized algorithms for low-rank matrix approximation using any number of views*. arXiv preprint [arXiv:xx.xx](https://arxiv.org/abs/xx.xx)
+Bjarkason, E. K. (2018). *Pass-efficient randomized algorithms for low-rank matrix approximation using any number of views*. arXiv preprint [arXiv:1804.07531](https://arxiv.org/abs/1804.07531)
 
 # Contact Authors
 Elvar K. Bjarkason: ebja558@aucklanduni.ac.nz
