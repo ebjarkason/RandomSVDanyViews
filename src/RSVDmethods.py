@@ -636,7 +636,7 @@ def getMinVarEllCutWoolfe(ktrunc, ell1, OmegaCTdotQc, YrTQr):
     return ellCut
 
       
-# rand1viewTroppMinVar(A, AT, ktrunc, ell1, ell2, SketchOrth=False, Parallel=False): 
+# rand1viewWoolfeMinVar(A, AT, ktrunc, ell1, ell2, SketchOrth=False, Parallel=False): 
 # A modified version of the randomized 1-view Algorithm 8 in Bjarkason (2018),
 # which uses a "minimum variance" ellCut parameter found using
 # equation (6.11) in Bjarkason (2018)
